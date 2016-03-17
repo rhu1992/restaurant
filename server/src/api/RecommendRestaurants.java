@@ -25,6 +25,8 @@ public class RecommendRestaurants extends HttpServlet {
 	 */
 	public RecommendRestaurants() {
 		super();
+		
+		
 	}
 
 	/**
